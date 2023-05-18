@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debasish Roy</h1>
 <h3 align="center">A passionate Mobile Apps Developer.</h3>
 
-<h5 align="center> I'am a innovative mobile app developer with a passion for creating exceptional user experiences. With expertise in iOS and Android platforms, I am proficient Java, Kotlin, Dart and Flutter. Collaborative and detail-oriented, I have launched successful apps across various domains.I am always Continuously learning and staying up-to-date with emerging technologies and also dedicated to providing exceptional user experiences and meeting client expectations. I am ready to make a lasting impact in mobile app development.</h5>
+<h4 align="center> I'am a innovative mobile app developer with a passion for creating exceptional user experiences. With expertise in iOS and Android platforms, I am proficient Java, Kotlin, Dart and Flutter. Collaborative and detail-oriented, I have launched successful apps across various domains.I am always Continuously learning and staying up-to-date with emerging technologies and also dedicated to providing exceptional user experiences and meeting client expectations. I am ready to make a lasting impact in mobile app development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roydebasish&label=Profile%20views&color=0e75b6&style=flat" alt="roydebasish" /> </p>
 
