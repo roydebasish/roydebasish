@@ -18,8 +18,6 @@ Skills: Java / Kotlin/ Dart/ Android/ Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roydebasish&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roydebasish)  
-
 ![GitHub metrics](https://metrics.lecoq.io/roydebasish)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=roydebasish)  
